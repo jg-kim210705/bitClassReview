@@ -12,4 +12,4 @@ public class Datatype{
 		System.out.println("1111".length());
 //		System.out.println(1111.length());
 	}
-} 
+}   
